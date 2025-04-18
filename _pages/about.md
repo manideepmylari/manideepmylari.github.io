@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Nitin Chaurasia
+title: Manideep
 permalink: /about/
 author_profile: true
 ---
