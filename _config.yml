@@ -1,11 +1,11 @@
 # Site Setting
-# title:              : "{ni[T]in}"
-title                 : "ηї☂їᾔ"
-tagline               : 'Nitin Kumar Chaurasia'
+# title:              : ""
+title                 : "text"
+tagline               : 'Manideep'
 description           : 
 subtitle              : 
 title_separator       : "-"
-name                  : Nitin K Chaurasia #Name appearing on the Footer
+name                  : "Manideep" #Name appearing on the Footer
 locale                : "en-US"
 #locale               : "hi-IN"
 #remote_theme          : "mmistakes/minimal-mistakes@4.26.2"
@@ -14,9 +14,9 @@ teaser                : # path of fallback teaser image, e.g. "/assets/images/50
 logo                  :  /assets/images/Coloured.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title         : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs           : true # true, false (default)
-url                 : https://nitinkc.github.io/
+url                 : https://manideepmylari.github.io/
 #baseurl             : '/'
-repository          : nitinkc/nitinkc.github.io.git
+repository          : manideepmylari/manideepmylari.github.io.git
 
 # Outputting
 permalink: /:categories/:title/
@@ -26,36 +26,36 @@ permalink: /:categories/:title/
 #relative_permalinks: true
 paginate: 15 # amount of posts to show
 paginate_path: /page:num/
-timezone : 'America/Denver' # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone : 'America/Chicago' # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 version               : 0.0.1
 words_per_minute         : 200
 
 # Site Author
 author:
-  name                : Nitin Chaurasia
-  avatar              : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio                 : Java Microservices Developer
-  location            : Denver,CO
-  url                 : https://nitinkc.github.io/
+  name                : Manideep Mylarisetty
+  avatar              : /assets/images/My pic.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio                 : Software Developer
+  location            : Dallas,TX
+  url                 : https://manideepmylari.github.io/
   #baseurl             : '/'
-  repository          : nitinkc/nitinkc.github.io.git
+  repository          : manideepmylari/manideepmylari.github.io.git
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gs.nitin@gmail.com"
+      url: "mailto:rajumani2379@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://nitinkc.github.io/"
+      url: "https://manideepmylari.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nitinkc"
+      url: "https://github.com/manideepmylari"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/nitinchaurasia/"
+      url: "https://www.linkedin.com/in/deep-mani/"
     - label: "BGSU Blog"
       icon: "fas fa-fw fa-university"
-      url: "http://blogs.bgsu.edu/nitinc/"
+      url: ""
     - label: "Git Book"
       icon: "fas fa-fw fa-book"
       url: "https://nitinc.gitbooks.io/developer-machine-setup-guide/content/"
@@ -119,7 +119,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nitinkc"
+      url: "https://github.com/manideepmylari"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
