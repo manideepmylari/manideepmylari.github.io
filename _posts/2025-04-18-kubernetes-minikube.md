@@ -77,9 +77,6 @@ Great job on deploying your Spring Boot application! Your YAML files look good. 
 
 With these configurations, your service should route traffic to the Spring Boot pods on port 8080. If everything is set up correctly, you should be able to access your application via the NodePort.
 
-Is there anything specific you'd like to know or any issues you're facing with this setup?
-
-
 kubectl get nodes -o wide
 
 
